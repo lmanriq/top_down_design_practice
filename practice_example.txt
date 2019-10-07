@@ -1,0 +1,22 @@
+1. Format essay
+  1.1 Choose font
+    1.1.1 Choose font style
+    1.1.2 Choose font size
+  1.2 Set margins
+  1.3 Set line spacing
+2. Draft essay
+  2.1 Draft intro
+    2.1.1 Create a hook
+    2.1.2 Introduce key concepts
+    2.1.3 Write a thesis
+      2.1.3.1 State your main theme
+      2.1.3.2 State your main points
+  2.2 Draft body
+    2.2.1 Write first paragraph
+      2.2.1.1 Write intro sentence
+      2.2.1.2 Make main point
+      2.2.1.3 Write conclusion sentence
+  2.3 Draft conclusion
+3. Edit essay
+  3.1 Check for spelling mistakes
+  3.2 Read through draft
