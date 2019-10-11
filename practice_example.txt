@@ -1,3 +1,32 @@
+Starting a Fire
+
+1 Survey area
+  1.1 Make note of obstacles
+2 Choose a fire site
+  2.1 Choose a flat area
+  2.2 Avoid rocks and trees
+3 Prep site
+  3.1 Clear away debris
+    3.1.1 Pick up loose rocks
+    3.1.2 Pick up loose leaves
+    3.1.3 Pick up loose sticks
+  3.2 Create ring of rocks
+    3.2.1 Gather rocks
+    3.2.2 Place in circle
+    3.2.3 Add additional circle
+4 Place kindling
+5 Start fire
+  5.1 Strike flint
+    5.1.1 Hit flint with rock over kindling
+    5.1.2 Repeat strike flint until you get a spark
+  5.2 Blow on spark until spark grows
+  5.3 Add logs
+    5.3.1 Place small logs on fire
+    5.3.2 Place medium logs on fire
+    5.3.3 Place large logs on fire
+
+Writing an Essay
+
 1. Format essay
   1.1 Choose font
     1.1.1 Choose font style
